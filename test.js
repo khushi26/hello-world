@@ -1,6 +1,6 @@
 let car = {
 	wheels = 4,
-	type = 'automatic',
+	isAutomatic = true,
 	fuel = 'electric',
 	honk() {
 		alert('HONK HONK!!!!');
